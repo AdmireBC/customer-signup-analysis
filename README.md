@@ -1,7 +1,7 @@
 # customer-signup-analysis
 Data quality audit and behavioural analysis of SaaS customer sign-ups - project for my data analyst internship at Uptrail.
 
-# Week 1 – Customer Sign-Up Behaviour Analysis
+## Sign-Up Behaviour Analysis
 ## Project Goals
 - Audit the quality of customer sign-up data
 - Identify user acquisition trends and marketing opt-in behaviour
